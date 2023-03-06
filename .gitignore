@@ -1,0 +1,12 @@
+/target/
+/.DS_Store
+/.settings/
+/src/.DS_Store
+/src/main/.DS_Store
+/src/main/java/.DS_Store
+/src/main/java/com/.DS_Store
+/src/main/java/com/promineotech/.DS_Store
+/src/test/.DS_Store
+/src/test/resources/.DS_Store
+/src/test/resources/flyway/.DS_Store
+/src/test/resources/flyway/conf/.DS_Store
